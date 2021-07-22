@@ -1,2 +1,2 @@
 # STYLE-CONFERENCE-WEBSITE
-A multipage website designed with HTML5/CSS30 and a few js codes for input validation
+A multipage website designed with HTML5/CSS3 and a few blocks of js codes for input validation
